@@ -15,4 +15,4 @@ In this repository we make available the pipeline and a precompute MSA so you ca
 
 
 --- 
-Submit to the competition [Proteinbase](https://proteinbase.com/competitions/adaptyv-nipah-competition)
+Submit to the competition on [Proteinbase](https://proteinbase.com/competitions/adaptyv-nipah-competition)
